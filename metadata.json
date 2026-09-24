@@ -1,0 +1,6 @@
+{
+  "name": "Planora AI",
+  "description": "Intelligent all-in-one AI event coordinator. Plan, calculate, manage seating, budgets, schedules, simulations, and celebrate without the chaos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
